@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil:😄
 
-<!--
-**danieltreinamento/danieltreinamento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é daniel 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura[(htts://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entra em contato comigo 📧
+
+danielcbrito74@gmail.com
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAd/umm.gif)
